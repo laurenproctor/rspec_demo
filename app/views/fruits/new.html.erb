@@ -1,0 +1,11 @@
+<h3>New Fruit</h3>
+
+<%= from_for(@fruit) do |f| %>
+
+	<div class="field">
+		<%= f.label :name %>
+		<%= f.text_field :name %>
+	</div>
+
+	<%= f.submit %>
+<% end %>

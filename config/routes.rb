@@ -1,4 +1,6 @@
 RspecPractice::Application.routes.draw do
+
+  resources :fruits, :except => [:destroy, :edit, :update]
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

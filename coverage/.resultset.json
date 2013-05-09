@@ -202,10 +202,39 @@
         1,
         null
       ],
-      "/Users/laurenproctor/Sites/wdi/rspec_demo/app/models/apple.rb": [
+      "/Users/laurenproctor/Sites/wdi/rspec_demo/app/helpers/fruits_helper.rb": [
         1,
+        null
+      ],
+      "/Users/laurenproctor/Sites/wdi/rspec_demo/app/controllers/fruits_controller.rb": [
         1,
+        null,
+        1,
+        7,
+        null,
+        7,
+        7,
+        11,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        5,
+        5,
+        2,
+        null,
         3,
+        null,
+        null,
+        null,
         null,
         null
       ],
@@ -215,15 +244,25 @@
         null,
         1,
         null,
+        1,
+        null,
         null,
         null,
         1,
+        null,
+        null
+      ],
+      "/Users/laurenproctor/Sites/wdi/rspec_demo/app/models/apple.rb": [
+        1,
+        1,
+        0,
+        null,
         null
       ],
       "/Users/laurenproctor/Sites/wdi/rspec_demo/app/models/pear.rb": [
         1,
         1,
-        3,
+        0,
         null,
         null,
         1,
@@ -246,6 +285,8 @@
       "/Users/laurenproctor/Sites/wdi/rspec_demo/config/routes.rb": [
         1,
         null,
+        1,
+        null,
         null,
         null,
         null,
@@ -303,15 +344,22 @@
         null,
         null
       ],
-      "/Users/laurenproctor/Sites/wdi/rspec_demo/spec/models/stair_spec.rb": [
+      "/Users/laurenproctor/Sites/wdi/rspec_demo/spec/support/blueprints.rb": [
         1,
         null,
         1,
-        2,
+        21,
+        42,
+        42,
+        42,
+        42,
+        21,
         null,
+        null,
+        1,
         null
       ]
     },
-    "timestamp": 1368030531
+    "timestamp": 1368118592
   }
 }

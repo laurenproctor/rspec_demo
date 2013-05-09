@@ -11,6 +11,8 @@ group :development, :test do
 	gem 'rspec-rails', '~> 2.0'
 	gem 'database_cleaner'
 	gem 'shoulda-matchers'
+	gem 'machinist'
+	gem 'faker'
 end
 
 gem 'simplecov', :require => false, :group => :test
@@ -19,7 +21,7 @@ gem 'simplecov', :require => false, :group => :test
 # in production environments by default.
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
-  gem 'coffee-rails', '~> 3.2.1'
+  # gem 'coffee-rails', '~> 3.2.1'
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   # gem 'therubyracer', :platforms => :ruby
